@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1636122868 source:d:\programming\c++projects\fraction\main.cpp
+	"Fraction.h"
+	<iostream>
+	<string>
+	<vector>
+
+1636113377 d:\programming\c++projects\fraction\fraction.h
+	<iostream>
+
+1636113224 source:d:\programming\c++projects\fraction\fraction.cpp
+	"Fraction.h"
+	<algorithm>
+
+1636112746 source:d:\programming\c++projects\fraction\operators.cpp
+	"Fraction.h"
+	<iostream>
+
